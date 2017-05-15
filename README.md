@@ -1,4 +1,4 @@
-# git_training
+# Entrenamiento de GIT
 
 Este es un repositorio para aprender git
 
